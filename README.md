@@ -1,6 +1,5 @@
 # DevOps Simulator
 
-<<<<<<< HEAD
 ## Student
 - Name: K.B.S PRANEETH
 - Student ID: 23A91A05G3
@@ -11,7 +10,6 @@
 
 ## Features
 ... (combined list) ...
-=======
 **EXPERIMENTAL BUILD** - Advanced CI/CD configuration management with AI integration.
 
 ## Project Status
@@ -66,4 +64,4 @@ See `/docs` folder and `/docs/ai-integration.md`
 
 ## License
 MIT License
->>>>>>> conflict-simulator
+update

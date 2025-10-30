@@ -1,0 +1,8 @@
+- 448672b: docs: Add GIT_JOURNEY.md with journey summary (praneeth1136, 28 seconds ago)
+- 41211f0: docs: Add FAQ section (praneeth1136, 20 minutes ago)
+- 8788f98: merge: resolved all conflicts from instructor main (praneeth1136, 30 minutes ago)
+- 26a045e: merge: Resolve conflicts from merging dev into main - Resolved 6 files (configs, scripts, docs, README) - Kept production as default, added dev profiles/flags (praneeth1136, 5 hours ago)
+- d3dd9b2: updating conflict-simulator (Hanu Gupta, 7 days ago)
+- 0312c6f: updating main (Hanu Gupta, 7 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 7 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 7 days ago)

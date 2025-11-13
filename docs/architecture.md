@@ -4,7 +4,7 @@
 ## Overview
 DevOps Simulator follows a microservices architecture designed for high availability and scalability.
 
-## Components
+## Components 
 
 ### 1. Application Server
 - **Technology**: Node.js + Express

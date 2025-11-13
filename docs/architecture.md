@@ -11,7 +11,7 @@ DevOps Simulator follows a microservices architecture designed for high availabi
 - **Port**: 8080
 - **Scaling**: Horizontal auto-scaling enabled
 
-### 2. Database Layer
+### 2. Database Layer 
 - **Database**: PostgreSQL 14
 - **Configuration**: Master-slave replication
 - **Backup**: Daily automated backups
